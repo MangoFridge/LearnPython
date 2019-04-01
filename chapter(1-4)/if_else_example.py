@@ -3,4 +3,3 @@ if password == 'Swordfish':
     print('Access granted')
 else:
     print('Wrong password.')
-    
